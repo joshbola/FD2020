@@ -1,12 +1,12 @@
 /* font Declaration */
 @font-face{
     font-family: Ralewaybold;
-    src: url(Assets/Fonts/Raleway-Bold.ttf);
+    src: url(../Assets/Fonts/Raleway-Bold.ttf);
 }
 
 @font-face{
     font-family: Ralewaymed;
-    src: url(Assets/Fonts/Raleway-Medium.ttf);
+    src: url(../Assets/Fonts/Raleway-Medium.ttf);
 }
 
 
